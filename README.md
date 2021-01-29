@@ -17,6 +17,8 @@ Após baixar o .zip do magento, é necessário extrair os arquivos para a pasta 
 
 C:\xampp\htdocs
 
+#Obs: Antes de tudo devemos criar um banco de dados com o nome de magento2, para podermos utilizar o admin corretamente 
+
 # Remover 2 campos aleatórios da etapa de Frete;
 Foram removidos o campo Bairro e Número, confira o print abaixo: 
 <img src="https://camo.githubusercontent.com/06ac97f0103cb8723452cba69aa29fb8751a4828a996fcf85585acc2ca5e6195/68747470733a2f2f7777772e6775737461766f66657272692e636f6d2e62722f6869627269646f2f7072696e742d72656d6f7665722d63616d706f732e706e67">
